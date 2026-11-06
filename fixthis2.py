@@ -8,11 +8,11 @@ Strong=str(whattoencode)+str(key)
 del pop
 def decode(encoded, key):
     output=''
-    for iin range(len(encoded)):
+    for i n range(len(encoded)):
         for j in rane(len(word)):
             if word[j]=encoded[i]:
                 #found
-                output+=word[j^key[i%4] % len(word)
+                output+=word[j^key[i%4] % len(word)]
                 break
             elif j==len(word)-1:
                 prnt(f'Error: {encoded[i]} not found in word list.')
