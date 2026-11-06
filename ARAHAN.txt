@@ -1,0 +1,11 @@
+Code python fixthis.py adalah untuk uncode link ke next stage.
+Zip file ini adalah zip yang dikunci dan terdapat jawapan.
+ARAHAN:
+FIXTHIS dan teruskan hingga ke stage yang mungkin akan
+membantu anda membuka password zip file yang terkunci.
+Jika anda orang pertama membuka zip file, anda akan menjadi
+pemenang HARIZHUNT 2!
+
+useful tool:
+android: https://play.google.com/store/apps/details?id=com.markodevcic.python_code_pad&pcampaignid=web_share
+PC: https://www.online-python.com/
